@@ -14,4 +14,4 @@ tags:
 
 What would normally be in your `README.md` would go here.
 
-{{% code file="/static/hello.go" language="go" %}}
+{{% code file="/static/hello-world-go/hello.go" language="go" %}}
